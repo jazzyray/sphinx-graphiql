@@ -1,8 +1,7 @@
 .graphiql {
   height: 300px;
-  margin-bottom: 9rem;
-  display: table;
-  width: 100%;
+  margin-bottom: 20px;
+  clear: both;
 }
 
 .graphiql .query, .graphiql .response {
